@@ -5,7 +5,7 @@ int sure;
 int mesafe;
 
 
-float sicaklik = 25.8; //Ondalık yazmak şansınız yoksa direk 25 de yazabilirsiniz.
+float sicaklik = 25.8; //Ondalık yazma şansınız yoksa direk 25 de yazabilirsiniz.
 
 
 //Sesin ortamda yayılma hızının sıcaklığa göre matematiksel olarak hesaplanması
