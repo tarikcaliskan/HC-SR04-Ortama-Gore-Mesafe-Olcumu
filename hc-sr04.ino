@@ -24,7 +24,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.println(sesHizi);
+  
   digitalWrite(trigger_pin, HIGH);
   delayMicroseconds(1000);
   digitalWrite(trigger_pin, LOW);
