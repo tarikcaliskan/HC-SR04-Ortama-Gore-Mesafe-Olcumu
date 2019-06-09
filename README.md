@@ -17,7 +17,7 @@
 
 
 
-**Atıflar: **
+**Atıflar:**
 
 https://youtu.be/0Vxs9ISmEm8
 https://lezzetlirobottarifleri.com/hc-sr04-mesafe-sensoru-ve-29-1-degeri/
