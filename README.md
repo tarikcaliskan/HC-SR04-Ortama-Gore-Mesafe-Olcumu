@@ -3,11 +3,11 @@
   
   ### Kullanım:
   
-  Yapmanız gereken sadece "sicaklik" 
+  Yapmanız gereken sadece  
   ```
   float sicaklik = 28.5;
   ``` 
-  değişkenine Celsius cinsinden sıcaklığı yazmak.
+  değişkenine Celsius cinsinden ortamın sıcaklığı yazmak.
   
   
   ### Devre:
@@ -19,5 +19,5 @@
 
 **Atıflar:**
 
-https://youtu.be/0Vxs9ISmEm8
+https://youtu.be/0Vxs9ISmEm8  
 https://lezzetlirobottarifleri.com/hc-sr04-mesafe-sensoru-ve-29-1-degeri/
